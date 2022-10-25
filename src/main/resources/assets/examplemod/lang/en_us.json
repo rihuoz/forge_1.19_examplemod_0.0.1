@@ -1,0 +1,10 @@
+{
+  "item.examplemod.glass_gem": "Glass Gem",
+  "item.examplemod.polished_glass_gem": "Polished Glass Gem",
+
+  "block.examplemod.glass_gem_block": "Block of Glass Gems",
+  "block.examplemod.glass_gem_ore": "Glass Gems Ore",
+  "block.examplemod.deepslate_glass_gem_ore": "Deepslate Glass Gem Ore",
+
+  "itemGroup.example_tab": "Example Tab"
+}
