@@ -1,10 +1,18 @@
 {
   "item.examplemod.glass_gem": "Glass Gem",
   "item.examplemod.polished_glass_gem": "Polished Glass Gem",
+  "item.examplemod.advanced_item": "Advanced Item",
+  "item.examplemod.tea_seeds": "Tea Seeds",
+  "item.examplemod.tea_leaves": "Tea Leaves",
 
   "block.examplemod.glass_gem_block": "Block of Glass Gems",
   "block.examplemod.glass_gem_ore": "Glass Gems Ore",
   "block.examplemod.deepslate_glass_gem_ore": "Deepslate Glass Gem Ore",
+  "block.examplemod.jumpy_block": "Jumpy Block",
+  "block.examplemod.glass_gem_lamp": "Glass Gem Lamp",
+  "block.examplemod.tea_crop": "Tea Crop",
 
-  "itemGroup.example_tab": "Example Tab"
+  "itemGroup.example_tab": "Example Tab",
+
+  "entity.minecraft.villager.examplemod.jumpy_master": "Jumpy Master"
 }

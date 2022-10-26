@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "examplemod:glass_gem_block"
+    }
+  ],
+  "result": {
+    "item": "examplemod:glass_gem",
+    "count": 9
+  }
+}

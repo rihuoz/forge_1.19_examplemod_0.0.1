@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=true": { "model": "examplemod:block/glass_gem_lamp_on"},
+    "lit=false": { "model": "examplemod:block/glass_gem_lamp_off"}
+  }
+}

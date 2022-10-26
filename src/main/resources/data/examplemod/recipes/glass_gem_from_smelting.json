@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "group": "glass_gem",
+  "ingredient": {
+    "item": "examplemod:glass_gem_ore"
+  },
+  "result": "examplemod:glass_gem"
+}
